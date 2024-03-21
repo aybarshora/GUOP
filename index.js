@@ -374,7 +374,8 @@ getBalanceFromBlockchain();
 
 //the result should be this:
 /* 
-I have this much tokens: [object Promise] and this much of eth: [object Promise]
+
 0.67684973028218089
 100000000.0
+
 */
