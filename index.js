@@ -7,7 +7,7 @@ var provider =  new ethers.providers.JsonRpcProvider('https://sepolia.infura.io/
 const getBalanceFromContract = async() =>{
 
     
-    //application binary interace(remove the [] and add the abi of the contract you want to interact with) 
+    //application binary interace(replace with the abi of the contract you want to interact with) 
     const abi = [
         {
             "inputs": [
